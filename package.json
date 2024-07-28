@@ -1,0 +1,15 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "description": "This project aims to streamline the process of sending CVs and resumes to different places on a bunch. It consists of two files: `stores.js` and `restaurant.js`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
